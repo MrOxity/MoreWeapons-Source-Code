@@ -1,0 +1,5 @@
+c:\users\marc\documents\visual studio 2017\Projects\MoreWeapons\MoreWeapons\bin\Debug\MoreWeapons.dll
+c:\users\marc\documents\visual studio 2017\Projects\MoreWeapons\MoreWeapons\bin\Debug\MoreWeapons.pdb
+c:\users\marc\documents\visual studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Debug\MoreWeapons.csprojResolveAssemblyReference.cache
+c:\users\marc\documents\visual studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Debug\MoreWeapons.dll
+c:\users\marc\documents\visual studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Debug\MoreWeapons.pdb

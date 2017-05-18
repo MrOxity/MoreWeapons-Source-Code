@@ -1,0 +1,5 @@
+C:\Users\Marc\Documents\Visual Studio 2017\Projects\MoreWeapons\MoreWeapons\bin\Release\MoreWeapons.dll
+C:\Users\Marc\Documents\Visual Studio 2017\Projects\MoreWeapons\MoreWeapons\bin\Release\MoreWeapons.pdb
+C:\Users\Marc\Documents\Visual Studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Release\MoreWeapons.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Release\MoreWeapons.dll
+C:\Users\Marc\Documents\Visual Studio 2017\Projects\MoreWeapons\MoreWeapons\obj\Release\MoreWeapons.pdb
