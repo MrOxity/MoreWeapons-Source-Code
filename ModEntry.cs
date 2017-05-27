@@ -1,4 +1,4 @@
-﻿using StardewModdingAPI;
+using StardewModdingAPI;
 using Microsoft.Xna.Framework;
 using StardewModdingAPI.Events;
 using StardewValley;
@@ -18,14 +18,13 @@ namespace MoreWeapons
 
         private void MenuEvents_MenuChanged(object sender, EventArgsClickableMenuChanged e)
         {
+            if (!Context.IsWorldReady)
+                return;
 
             if (Game1.activeClickableMenu is ShopMenu)
             {
-
                 ShopMenu shop = (ShopMenu)Game1.activeClickableMenu;
-                int mineLevelReached = Game1.mine.lowestLevelReached;
-                
-
+                int mineLevelReached = Game1.mine?.lowestLevelReached ?? 0;
 
                 if (shop.portraitPerson is NPC && shop.portraitPerson.name == "Marlon")
                 {
